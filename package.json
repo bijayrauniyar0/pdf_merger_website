@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "pdf-merger-js": "^4.3.0",
+    "uniqid": "^5.4.0"
+  }
+}
